@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 108" fill="none">
+  <!-- fatia de queijo do logo Cantin Mineiro, redesenhada em vetor -->
+  <path d="M10 92 L58 22 Q62 16 66 12 Q72 6 78 10 L100 26 Q94 34 99 42 Q103 47 110 48 L112 94 Q112 100 106 100 L16 100 Q7 100 10 92 Z" fill="#fbf3e3" stroke="#2b1a10" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M20 90 L62 30 Q66 24 70 20" stroke="#b8893b" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M10 92 Q 16 82 24 86 Q 30 92 26 100" fill="#f6efe3" stroke="#2b1a10" stroke-width="3.2" stroke-linejoin="round"/>
+  <circle cx="82" cy="70" r="13" stroke="#2b1a10" stroke-width="3.2"/>
+  <circle cx="82" cy="70" r="9" stroke="#b8893b" stroke-width="1.6"/>
+  <circle cx="52" cy="70" r="8.5" stroke="#2b1a10" stroke-width="3"/>
+  <circle cx="70" cy="42" r="6" stroke="#2b1a10" stroke-width="2.8"/>
+  <circle cx="86" cy="32" r="2.4" fill="#2b1a10"/>
+  <circle cx="92" cy="50" r="2.2" fill="#2b1a10"/>
+  <circle cx="40" cy="86" r="2.2" fill="#2b1a10"/>
+  <circle cx="64" cy="90" r="2.2" fill="#2b1a10"/>
+</svg>
